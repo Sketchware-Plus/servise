@@ -1,5 +1,5 @@
 {
-  "لینک": "https://myket.ir/app/com.Sketchware.Plus",
-  "عنوان": "حرفه ای برنامه بساز!!!",
-  "تصویر": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۷_۱۵۱۶۵۵۶۳۳_883.jpg"
+  "لینک": "https://myket.ir/app/ir.Courageortruth",
+  "عنوان": "سوال های جذاب و پرهیجان جرعت و حقیقت",
+  "تصویر": "https://s4.uupload.ir/files/img-20210627-wa0000_ajtt.jpg"
 }
