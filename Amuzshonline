@@ -3,49 +3,65 @@
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۳۲۴۹۹۴_vvjb.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/obH4L/vt/frame?isamp",
     "کد": "\n💡 روشن\n android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }\n\n💡 خاموش\n\nandroid.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }\n",
-    "لینک": "https://aspb22.cdn.asset.aparat.com/aparat-video/c407f55017250ab85d1e8ecfaf1cb9da32155934-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNkNzIxZDg1ZDg2NWVlMmM3OTc1NGU2MmQwNzFlYmNiIiwiZXhwIjoxNjI0MjY5ODY1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1GAqsAbq3a083fJ3_TTwhpoQi4SghVq0HBRt49Kzgfk"
+    "لینک": "https://aspb22.cdn.asset.aparat.com/aparat-video/c407f55017250ab85d1e8ecfaf1cb9da32155934-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNkNzIxZDg1ZDg2NWVlMmM3OTc1NGU2MmQwNzFlYmNiIiwiZXhwIjoxNjI0MjY5ODY1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1GAqsAbq3a083fJ3_TTwhpoQi4SghVq0HBRt49Kzgfk",
+    "عنوان": "آموزش ساخت چراغ قوه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۳۵۰۳۷۶_k3jv.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/GLYEk/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb27.cdn.asset.aparat.com/aparat-video/a67296acd27e14b8b37341e02004917232169105-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUyMzIwYTkyMzlkMzc4NGM5ZjQzZDYyNTBmNTVhZTQ0IiwiZXhwIjoxNjI0Mjc1Mzg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.5cZ2SSQRGMVHXfT5D4d8dt5H4GCYWiAPcQ7QXA5w55w"
+    "لینک": "https://aspb27.cdn.asset.aparat.com/aparat-video/a67296acd27e14b8b37341e02004917232169105-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUyMzIwYTkyMzlkMzc4NGM5ZjQzZDYyNTBmNTVhZTQ0IiwiZXhwIjoxNjI0Mjc1Mzg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.5cZ2SSQRGMVHXfT5D4d8dt5H4GCYWiAPcQ7QXA5w55w",
+    "عنوان": "آموزش کار با تایمر ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۱۷۲۵۸_lkme.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/xD51E/vt/frame?isamp",
     "کد": "myket://comment?id\u003dنام پکیج برنامه تون",
-    "لینک": "https://aspb23.cdn.asset.aparat.com/aparat-video/ca93b3604c13849431d572392e1b582032190668-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU5NWE5NTgyNzJmOTMzNDc5ZDIzNDU4ZWRkMWNmMTA1IiwiZXhwIjoxNjI0Mjc1NDYyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Hbqw6bayPxAdLy5YmntmXhSAzaOi6I_BLltS1IwoLgU"
+    "لینک": "https://aspb23.cdn.asset.aparat.com/aparat-video/ca93b3604c13849431d572392e1b582032190668-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU5NWE5NTgyNzJmOTMzNDc5ZDIzNDU4ZWRkMWNmMTA1IiwiZXhwIjoxNjI0Mjc1NDYyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Hbqw6bayPxAdLy5YmntmXhSAzaOi6I_BLltS1IwoLgU",
+    "عنوان": "آموزش ارسال نظر در مایکت",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۴۰۰۰۳_x108.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/TywO2/vt/frame?isamp",
     "کد": "mailto:اینجا ایمیل خود را وارد کنید ",
-    "لینک": "https://hw18.cdn.asset.aparat.com/aparat-video/52837136274d924d3e95036d9def3d8a32728487-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg0MTBhZjYxNGRkODAyMzk0ODg1NDY4MjFlZjFiNjIzIiwiZXhwIjoxNjI0Mjc1NTY3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cq0wFJE-86j-X19tUSjwbddb3TOf8_vmM-59SCtwFE4"
+    "لینک": "https://hw18.cdn.asset.aparat.com/aparat-video/52837136274d924d3e95036d9def3d8a32728487-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg0MTBhZjYxNGRkODAyMzk0ODg1NDY4MjFlZjFiNjIzIiwiZXhwIjoxNjI0Mjc1NTY3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cq0wFJE-86j-X19tUSjwbddb3TOf8_vmM-59SCtwFE4",
+    "عنوان": "آموزش ارسال ایمیل ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۶۰۷۶۳۹_whhg.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/gakOu/vt/frame?isamp",
     "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));",
-    "لینک": "https://aspb19.cdn.asset.aparat.com/aparat-video/e645a348b5c3ed913f390a0db4cec40b32219310-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU4YWIwZjI3YjFlMmNkMTY5NTNmOGZiNmM0MDI4ZDQ1IiwiZXhwIjoxNjI0Mjc1NzkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9H2gxiOF1Y7HbqH_Y4dm0z5mXlbQIyFPCYBVODA5NhU"
+    "لینک": "https://aspb19.cdn.asset.aparat.com/aparat-video/e645a348b5c3ed913f390a0db4cec40b32219310-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU4YWIwZjI3YjFlMmNkMTY5NTNmOGZiNmM0MDI4ZDQ1IiwiZXhwIjoxNjI0Mjc1NzkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9H2gxiOF1Y7HbqH_Y4dm0z5mXlbQIyFPCYBVODA5NhU",
+    "عنوان": "نمایش درصد شارژ باتری",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۶۴۶۰۷۵_3nc9.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/FTEnj/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/16443157dd00e4c202c58bf0b0b77acb32219110-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY1OTU1OTFmMDEzNGE0NWVhZjdlYTI3YzZkMzNhNzhmIiwiZXhwIjoxNjI0Mjc1ODM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LA00cq_xARAQdgLZEZoSwTWzNDpaneDp_9FFbUxOg1k"
+    "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/16443157dd00e4c202c58bf0b0b77acb32219110-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY1OTU1OTFmMDEzNGE0NWVhZjdlYTI3YzZkMzNhNzhmIiwiZXhwIjoxNjI0Mjc1ODM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LA00cq_xARAQdgLZEZoSwTWzNDpaneDp_9FFbUxOg1k",
+    "عنوان": "آموزش تغییر فیلتر عکس ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۷۲۱۷۹۰_96ld.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/06wDQ/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/1fec8e867c09dcab2a04f2a22d2a83b032219172-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFlYTY3ODZmMDQ3YmUxMDk4YzM0NWU1YzY2MDg5MzUzIiwiZXhwIjoxNjI0Mjc1OTAyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.M4Aj-VBXbi6ZE7qMCNaquBXcdTNtvfvKsPzVTmVm3zM"
+    "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/1fec8e867c09dcab2a04f2a22d2a83b032219172-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFlYTY3ODZmMDQ3YmUxMDk4YzM0NWU1YzY2MDg5MzUzIiwiZXhwIjoxNjI0Mjc1OTAyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.M4Aj-VBXbi6ZE7qMCNaquBXcdTNtvfvKsPzVTmVm3zM",
+    "عنوان": "نمایش دیالوگ هنگام ورود",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۸۰۰۸۲۹_1569.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/wevgZ/vt/frame?isamp",
     "کد": "android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#FFFFFF\"));\nAA.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\nbutton1.setBackground(AA);",
-    "لینک": "https://aspb21.cdn.asset.aparat.com/aparat-video/933bc751c29e8505aded72224482160832255331-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVmOGRiNDc4ZWQ5ZGUwMGIzM2Q3NzU0MTg5ZWY5YmVlIiwiZXhwIjoxNjI0Mjc1OTc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0dppBqVOcvope2aAR8c7-G_p0MBN6RizIRvf-OlDmbo"
+    "لینک": "https://aspb21.cdn.asset.aparat.com/aparat-video/933bc751c29e8505aded72224482160832255331-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVmOGRiNDc4ZWQ5ZGUwMGIzM2Q3NzU0MTg5ZWY5YmVlIiwiZXhwIjoxNjI0Mjc1OTc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0dppBqVOcvope2aAR8c7-G_p0MBN6RizIRvf-OlDmbo",
+    "عنوان": "آموزش گرد کردن باتون",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۸۵۱۴۹۰_kva5.jpg",
