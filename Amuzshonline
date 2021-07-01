@@ -1,6 +1,5 @@
 [
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۳۲۴۹۹۴_vvjb.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/obH4L/vt/frame?isamp",
     "کد": "\n💡 روشن\n android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }\n\n💡 خاموش\n\nandroid.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }\n",
     "لینک": "https://aspb22.cdn.asset.aparat.com/aparat-video/c407f55017250ab85d1e8ecfaf1cb9da32155934-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNkNzIxZDg1ZDg2NWVlMmM3OTc1NGU2MmQwNzFlYmNiIiwiZXhwIjoxNjI0MjY5ODY1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1GAqsAbq3a083fJ3_TTwhpoQi4SghVq0HBRt49Kzgfk",
@@ -8,7 +7,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۳۵۰۳۷۶_k3jv.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/GLYEk/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
     "لینک": "https://aspb27.cdn.asset.aparat.com/aparat-video/a67296acd27e14b8b37341e02004917232169105-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUyMzIwYTkyMzlkMzc4NGM5ZjQzZDYyNTBmNTVhZTQ0IiwiZXhwIjoxNjI0Mjc1Mzg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.5cZ2SSQRGMVHXfT5D4d8dt5H4GCYWiAPcQ7QXA5w55w",
@@ -16,7 +14,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۱۷۲۵۸_lkme.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/xD51E/vt/frame?isamp",
     "کد": "myket://comment?id\u003dنام پکیج برنامه تون",
     "لینک": "https://aspb23.cdn.asset.aparat.com/aparat-video/ca93b3604c13849431d572392e1b582032190668-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU5NWE5NTgyNzJmOTMzNDc5ZDIzNDU4ZWRkMWNmMTA1IiwiZXhwIjoxNjI0Mjc1NDYyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Hbqw6bayPxAdLy5YmntmXhSAzaOi6I_BLltS1IwoLgU",
@@ -24,7 +21,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۴۰۰۰۳_x108.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/TywO2/vt/frame?isamp",
     "کد": "mailto:اینجا ایمیل خود را وارد کنید ",
     "لینک": "https://hw18.cdn.asset.aparat.com/aparat-video/52837136274d924d3e95036d9def3d8a32728487-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg0MTBhZjYxNGRkODAyMzk0ODg1NDY4MjFlZjFiNjIzIiwiZXhwIjoxNjI0Mjc1NTY3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cq0wFJE-86j-X19tUSjwbddb3TOf8_vmM-59SCtwFE4",
@@ -32,7 +28,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۶۰۷۶۳۹_whhg.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/gakOu/vt/frame?isamp",
     "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));",
     "لینک": "https://aspb19.cdn.asset.aparat.com/aparat-video/e645a348b5c3ed913f390a0db4cec40b32219310-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU4YWIwZjI3YjFlMmNkMTY5NTNmOGZiNmM0MDI4ZDQ1IiwiZXhwIjoxNjI0Mjc1NzkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9H2gxiOF1Y7HbqH_Y4dm0z5mXlbQIyFPCYBVODA5NhU",
@@ -40,7 +35,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۶۴۶۰۷۵_3nc9.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/FTEnj/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
     "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/16443157dd00e4c202c58bf0b0b77acb32219110-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY1OTU1OTFmMDEzNGE0NWVhZjdlYTI3YzZkMzNhNzhmIiwiZXhwIjoxNjI0Mjc1ODM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LA00cq_xARAQdgLZEZoSwTWzNDpaneDp_9FFbUxOg1k",
@@ -48,7 +42,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۷۲۱۷۹۰_96ld.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/06wDQ/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
     "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/1fec8e867c09dcab2a04f2a22d2a83b032219172-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFlYTY3ODZmMDQ3YmUxMDk4YzM0NWU1YzY2MDg5MzUzIiwiZXhwIjoxNjI0Mjc1OTAyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.M4Aj-VBXbi6ZE7qMCNaquBXcdTNtvfvKsPzVTmVm3zM",
@@ -56,7 +49,6 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۸۰۰۸۲۹_1569.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/wevgZ/vt/frame?isamp",
     "کد": "android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#FFFFFF\"));\nAA.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\nbutton1.setBackground(AA);",
     "لینک": "https://aspb21.cdn.asset.aparat.com/aparat-video/933bc751c29e8505aded72224482160832255331-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVmOGRiNDc4ZWQ5ZGUwMGIzM2Q3NzU0MTg5ZWY5YmVlIiwiZXhwIjoxNjI0Mjc1OTc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0dppBqVOcvope2aAR8c7-G_p0MBN6RizIRvf-OlDmbo",
@@ -64,237 +56,276 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۸۵۱۴۹۰_kva5.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/mOzkT/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb23.cdn.asset.aparat.com/aparat-video/7cba72ec95603e08ff5cd3388fb7530e32255783-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRiNzA4NDcwZWVlZDcwZjQ4NDcyZDA5ZTZmMGE0MmI0IiwiZXhwIjoxNjI0Mjc2MDY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.J_GhaPwoVjSm2mMcPSiGbowxOGkSVl-uw6F5dlFH_Ps"
+    "لینک": "https://aspb23.cdn.asset.aparat.com/aparat-video/7cba72ec95603e08ff5cd3388fb7530e32255783-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRiNzA4NDcwZWVlZDcwZjQ4NDcyZDA5ZTZmMGE0MmI0IiwiZXhwIjoxNjI0Mjc2MDY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.J_GhaPwoVjSm2mMcPSiGbowxOGkSVl-uw6F5dlFH_Ps",
+    "عنوان": "نمایش دیالوگ هنگام خروج",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۰۰۰۸۶۱_zz54.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/WJcFb/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb21.cdn.asset.aparat.com/aparat-video/3f00ab569c6ab1564366939e10b5aca532310018-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImYzNGUwZDBkZDYyNjFkODBkOWEyNDk4NzIzYzJmZTdhIiwiZXhwIjoxNjI0Mjc2MTU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SZLYIIRMyb-Uc1yzdjV_UckFElZmri7slYw2KjUn2I0"
+    "لینک": "https://aspb21.cdn.asset.aparat.com/aparat-video/3f00ab569c6ab1564366939e10b5aca532310018-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImYzNGUwZDBkZDYyNjFkODBkOWEyNDk4NzIzYzJmZTdhIiwiZXhwIjoxNjI0Mjc2MTU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SZLYIIRMyb-Uc1yzdjV_UckFElZmri7slYw2KjUn2I0",
+    "عنوان": "لرزش گوشی با زدن روی باتون ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۰۵۶۴۸۶_w4zz.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/36FAY/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/d470e372e500a17e9229f8d850913dbc32311048-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI0ZjI0MTdiNWIzZDYzNzlkZTdmZGFiY2EwYzBmYWE2IiwiZXhwIjoxNjI0Mjc2MjEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.TKNMYE3d9Z9LsNufrzZONVqBZg6PDWlPm0UmZ7Te6Tk"
+    "لینک": "https://aspb24.cdn.asset.aparat.com/aparat-video/d470e372e500a17e9229f8d850913dbc32311048-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI0ZjI0MTdiNWIzZDYzNzlkZTdmZGFiY2EwYzBmYWE2IiwiZXhwIjoxNjI0Mjc2MjEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.TKNMYE3d9Z9LsNufrzZONVqBZg6PDWlPm0UmZ7Te6Tk",
+    "عنوان": "آموزش گذاشتن رمز در برنامه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۱۴۷۰۳۷_9r2h.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/IN6Pg/vt/frame?isamp",
     "کد": "https://t.me/آیدی کانال",
-    "لینک": "https://as9.cdn.asset.aparat.com/aparat-video/d3991ecb369b06edd9017cfb18f1a9d432928365-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgwNWRlOGEzZGZjYjg4OTMzNTU0MmVhMmRiODRjNjMzIiwiZXhwIjoxNjI0Mjc2MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yPrg9Vluyz5gCoaPuP7qvhdpOOI_fKNPymRjiIOiK8A"
+    "لینک": "https://as9.cdn.asset.aparat.com/aparat-video/d3991ecb369b06edd9017cfb18f1a9d432928365-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgwNWRlOGEzZGZjYjg4OTMzNTU0MmVhMmRiODRjNjMzIiwiZXhwIjoxNjI0Mjc2MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yPrg9Vluyz5gCoaPuP7qvhdpOOI_fKNPymRjiIOiK8A",
+    "عنوان": "آموزش رفتن به تلگرام ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۲۲۳۷۲۷_cp7i.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/izhaW/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hw6.cdn.asset.aparat.com/aparat-video/a89aad6e40d167ef9a2bc83e55e3596432928474-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJkZjc0MmYyNjA3NDdkMWI1OGU3MTAzYWI5MDdiZWM0IiwiZXhwIjoxNjI0Mjc2MzYzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FzBEoZeNSbraH0VN8X_xDXwAnnu9BwTfWnFpUi9bCXY"
+    "لینک": "https://hw6.cdn.asset.aparat.com/aparat-video/a89aad6e40d167ef9a2bc83e55e3596432928474-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJkZjc0MmYyNjA3NDdkMWI1OGU3MTAzYWI5MDdiZWM0IiwiZXhwIjoxNjI0Mjc2MzYzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FzBEoZeNSbraH0VN8X_xDXwAnnu9BwTfWnFpUi9bCXY",
+    "عنوان": "آموزش ساخت بخش کد هدیه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۳۱۳۷۰۹_y2ai.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/roQXO/vt/frame?isamp",
     "کد": "IntentFilter ifilter \u003d new IntentFilter(Intent.ACTION_BATTERY_CHANGED);\nIntent batteryStatus \u003d registerReceiver(null, ifilter);\nint temp \u003d batteryStatus.getIntExtra(BatteryManager.EXTRA_TEMPERATURE,0);\nfloat tempTwo \u003d ((float) temp) / 10;\ntextview1.setText(tempTwo + \" °C\");",
-    "لینک": "https://hw1.cdn.asset.aparat.com/aparat-video/3958fa6813252995ea142f37f410eb6d32928583-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU1MTJhODViY2Q1NmIyNTRlZGY0NzMxOTk3ZmZiZDcwIiwiZXhwIjoxNjI0Mjc2Mzk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.6kZsVOLVHauQHgz6SA34lIHD0PWuw_-3LbmbPVgdRWg"
+    "لینک": "https://hw1.cdn.asset.aparat.com/aparat-video/3958fa6813252995ea142f37f410eb6d32928583-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU1MTJhODViY2Q1NmIyNTRlZGY0NzMxOTk3ZmZiZDcwIiwiZXhwIjoxNjI0Mjc2Mzk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.6kZsVOLVHauQHgz6SA34lIHD0PWuw_-3LbmbPVgdRWg",
+    "عنوان": "نمایش دمای باتری",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۴۰۴۴۴۶_meur.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/BZF7D/vt/frame?isamp",
     "کد": " this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);",
-    "لینک": "https://as7.cdn.asset.aparat.com/aparat-video/c4da1d3d171a5cf65ca6bc685a45305f32928662-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY4YmM4ZDdhNGJjNDg1NTRkZGFjYmE4YTI3ZTRmNjRhIiwiZXhwIjoxNjI0Mjc2NDY5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SvViZfgbHX6BbWKtNsma-kE5ncG2ExQzuhw3EwYyfyQ"
+    "لینک": "https://as7.cdn.asset.aparat.com/aparat-video/c4da1d3d171a5cf65ca6bc685a45305f32928662-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY4YmM4ZDdhNGJjNDg1NTRkZGFjYmE4YTI3ZTRmNjRhIiwiZXhwIjoxNjI0Mjc2NDY5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SvViZfgbHX6BbWKtNsma-kE5ncG2ExQzuhw3EwYyfyQ",
+    "عنوان": "ضد شات کردن برنامه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۴۳۶۸۵۳_8whq.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/arfuw/vt/frame?isamp",
     "کد": " in dialog in a project.\n\n final ProgressDialog prog \u003d new ProgressDialog(MainActivity.this);prog.setMax(100);prog.setTitle(\"متن بالای دیالوگ\");prog.setMessage(\"پیامتون\");prog.setIndeterminate(true);prog.setCancelable(false);prog.show();",
-    "لینک": "https://as5.cdn.asset.aparat.com/aparat-video/a19989dc45054eddeb033de38ca49e8d32928736-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUyYmYzNTkzYjQ0NmQwNjg1ZTRjMzg1NDM2MjgzYTA0IiwiZXhwIjoxNjI0Mjc2NTYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Xk3Z3ZtLCzddxMmy2o6ortPeeI4WJ44OxYbO0hYTfSQ"
+    "لینک": "https://as5.cdn.asset.aparat.com/aparat-video/a19989dc45054eddeb033de38ca49e8d32928736-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUyYmYzNTkzYjQ0NmQwNjg1ZTRjMzg1NDM2MjgzYTA0IiwiZXhwIjoxNjI0Mjc2NTYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Xk3Z3ZtLCzddxMmy2o6ortPeeI4WJ44OxYbO0hYTfSQ",
+    "عنوان": "ساخت لودینگ در دیالوگ ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۵۰۹۷۰۵_n0vw.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/IbiHJ/vt/frame?isamp",
     "کد": "sms:",
-    "لینک": "https://as8.cdn.asset.aparat.com/aparat-video/f682c21503ef8f70ecf40dfabf1b679d32928802-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImEzZDlmNmY2ZDIzZWI0Mzc2OWYzOTg0MDMyZmFmNTk5IiwiZXhwIjoxNjI0Mjc2NjA2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Wn85j2WvKdZnzJxJZwtgNZ1vA3sT8bsUgaluGSIne_U"
+    "لینک": "https://as8.cdn.asset.aparat.com/aparat-video/f682c21503ef8f70ecf40dfabf1b679d32928802-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImEzZDlmNmY2ZDIzZWI0Mzc2OWYzOTg0MDMyZmFmNTk5IiwiZXhwIjoxNjI0Mjc2NjA2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Wn85j2WvKdZnzJxJZwtgNZ1vA3sT8bsUgaluGSIne_U",
+    "عنوان": "ارسال پیام",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۵۴۳۵۷۵_zr46.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/Dkf91/vt/frame?isamp",
     "کد": "https://translate.google.com/?hl\u003dfa",
-    "لینک": "https://as6.cdn.asset.aparat.com/aparat-video/be122e77e06be639056c13d98813caca32928864-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc5Y2E2NmZhMzNmYWNhY2Y1OTkzZjQ4YzMzYmI5OWUxIiwiZXhwIjoxNjI0Mjc2NjYyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.tqurY7o1wGyX7MO5KV6DvRhPre8ISGmaGjwsd2t2pQs"
+    "لینک": "https://as6.cdn.asset.aparat.com/aparat-video/be122e77e06be639056c13d98813caca32928864-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc5Y2E2NmZhMzNmYWNhY2Y1OTkzZjQ4YzMzYmI5OWUxIiwiZXhwIjoxNjI0Mjc2NjYyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.tqurY7o1wGyX7MO5KV6DvRhPre8ISGmaGjwsd2t2pQs",
+    "عنوان": "ساخت مترجم آنلاین ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۵۲۵۱۷۹_wgku.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/vOLyIb/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://as1.cdn.asset.aparat.com/aparat-video/2a6bceb370443de1be0b1502213db54832928942-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIyM2MyZDk1Njg1NzczYmI5ZDlkOTNmZmU5NDdiYjRhIiwiZXhwIjoxNjI0Mjc2NzYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lJO20fTiy_Rbk3F5GvvGfxqR8H0d7eU_khupDv7-844"
+    "لینک": "https://as1.cdn.asset.aparat.com/aparat-video/2a6bceb370443de1be0b1502213db54832928942-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIyM2MyZDk1Njg1NzczYmI5ZDlkOTNmZmU5NDdiYjRhIiwiZXhwIjoxNjI0Mjc2NzYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lJO20fTiy_Rbk3F5GvvGfxqR8H0d7eU_khupDv7-844",
+    "عنوان": "کپی کننده متن",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۷۳۷۰۵۳_04nz.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/O1hlS/vt/frame?isamp",
     "کد": "https://www.instagram.com/accounts/login/",
-    "لینک": "https://hw4.cdn.asset.aparat.com/aparat-video/e64f77681fa099410cd7f76f6838d40732929003-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJiYjdiMWQwN2MwYmU3NDg4MDQxM2UyMDQ5ZjljOTdkIiwiZXhwIjoxNjI0Mjc2NzkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.srE6tPeWeZve0QPi34eNHxK9tWhANFHvr4-CXJXEncE"
+    "لینک": "https://hw4.cdn.asset.aparat.com/aparat-video/e64f77681fa099410cd7f76f6838d40732929003-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJiYjdiMWQwN2MwYmU3NDg4MDQxM2UyMDQ5ZjljOTdkIiwiZXhwIjoxNjI0Mjc2NzkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.srE6tPeWeZve0QPi34eNHxK9tWhANFHvr4-CXJXEncE",
+    "عنوان": "آموزش ساخت اینستاگرام ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۸۲۹۰۶۶_7czt.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/ERJNx/vt/frame?isamp",
     "کد": "Intent startupIntent \u003d new Intent(Intent.ACTION_MAIN); startupIntent.addCategory(Intent.CATEGORY_LAUNCHER); final android.content.pm.PackageManager pm \u003d getPackageManager(); List\u003candroid.content.pm.ResolveInfo\u003e activities \u003d pm.queryIntentActivities(startupIntent,0); Collections.sort(activities, new Comparator\u003candroid.content.pm.ResolveInfo\u003e() { public int compare(android.content.pm.ResolveInfo a, android.content.pm.ResolveInfo b) { android.content.pm.PackageManager pm \u003d getPackageManager(); return String.CASE_INSENSITIVE_ORDER.compare( a.loadLabel(pm).toString(), b.loadLabel(pm).toString()); } }); ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e adapter \u003d new ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e( this, android.R.layout.simple_list_item_1, activities) { public View getView(int pos, View convertView, ViewGroup parent) { TextView tv \u003d new TextView(MainActivity.this); android.content.pm.ResolveInfo ri \u003d getItem(pos); tv.setText(ri.loadLabel(pm)); LinearLayout lin \u003d new LinearLayout(MainActivity.this);ImageView iv \u003d new ImageView(MainActivity.this);iv.setImageDrawable(ri.loadIcon(pm));lin.addView(iv);lin.addView(tv);tv.setGravity(Gravity.CENTER_VERTICAL);tv.setPadding(16,0,0,0);tv.setTextSize(16);tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.MATCH_PARENT ));LinearLayout.LayoutParams p \u003d new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.MATCH_PARENT);p.width \u003d 70;p.height \u003d 70;p.bottomMargin \u003d 4;p.topMargin \u003d 4;iv.setLayoutParams(p);lin.setPadding(6,6,6,6);return lin; } }; listview1.setAdapter(adapter); listview1.setOnItemClickListener(new AdapterView.OnItemClickListener() { @Override public void onItemClick(AdapterView adapter, View v, int position, long id) { android.content.pm.ResolveInfo resolveInfo \u003d (android.content.pm.ResolveInfo)adapter.getItemAtPosition(position); android.content.pm.ActivityInfo activityInfo \u003d resolveInfo.activityInfo; if (activityInfo \u003d\u003d null) return; Uri packageURI \u003d Uri.parse(\"package:\".concat(activityInfo.applicationInfo.packageName)); Intent uninstallIntent \u003d new Intent(Intent.ACTION_DELETE, packageURI); startActivity(uninstallIntent); } });;",
-    "لینک": "https://hw4.cdn.asset.aparat.com/aparat-video/46a04f80d7f85f31cb9e52bff8c52f8d33493574-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVhNDE0OGFkOTlhNzM2NWZhMzk1YTY0NmVjYjA4NWFmIiwiZXhwIjoxNjI0Mjc2ODQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ewUdCsOPoJhN3V8eaGMaozIl_yHTpPRG3fe26Z_rwPw"
+    "لینک": "https://hw4.cdn.asset.aparat.com/aparat-video/46a04f80d7f85f31cb9e52bff8c52f8d33493574-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVhNDE0OGFkOTlhNzM2NWZhMzk1YTY0NmVjYjA4NWFmIiwiZXhwIjoxNjI0Mjc2ODQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ewUdCsOPoJhN3V8eaGMaozIl_yHTpPRG3fe26Z_rwPw",
+    "عنوان": "ساخت برنامه حذف و نصب کن ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۹۱۱۷۶۳_azhy.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/7iwEn/vt/frame?isamp",
     "کد": "Intent startupIntent \u003d new Intent(Intent.ACTION_MAIN); startupIntent.addCategory(Intent.CATEGORY_LAUNCHER); final android.content.pm.PackageManager pm \u003d getPackageManager(); List\u003candroid.content.pm.ResolveInfo\u003e activities \u003d pm.queryIntentActivities(startupIntent,0); Collections.sort(activities, new Comparator\u003candroid.content.pm.ResolveInfo\u003e() { public int compare(android.content.pm.ResolveInfo a, android.content.pm.ResolveInfo b) { android.content.pm.PackageManager pm \u003d getPackageManager(); return String.CASE_INSENSITIVE_ORDER.compare( a.loadLabel(pm).toString(), b.loadLabel(pm).toString()); } }); ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e adapter \u003d new ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e( this, android.R.layout.simple_list_item_1, activities) { public View getView(int pos, View convertView, ViewGroup parent) { TextView tv \u003d new TextView(MainActivity.this); android.content.pm.ResolveInfo ri \u003d getItem(pos); tv.setText(ri.loadLabel(pm)); LinearLayout lin \u003d new LinearLayout(MainActivity.this);ImageView iv \u003d new ImageView(MainActivity.this);iv.setImageDrawable(ri.loadIcon(pm));lin.addView(iv);lin.addView(tv);tv.setGravity(Gravity.CENTER_VERTICAL);tv.setPadding(16,0,0,0);tv.setTextSize(16);tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.MATCH_PARENT ));LinearLayout.LayoutParams p \u003d new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.MATCH_PARENT);p.width \u003d 70;p.height \u003d 70;p.bottomMargin \u003d 4;p.topMargin \u003d 4;iv.setLayoutParams(p);lin.setPadding(6,6,6,6);return lin; } }; listview1.setAdapter(adapter); listview1.setOnItemClickListener(new AdapterView.OnItemClickListener() { @Override public void onItemClick(AdapterView adapter, View v, int position, long id) { android.content.pm.ResolveInfo resolveInfo \u003d (android.content.pm.ResolveInfo)adapter.getItemAtPosition(position); android.content.pm.ActivityInfo activityInfo \u003d resolveInfo.activityInfo; if (activityInfo \u003d\u003d null) return; Intent i \u003d new Intent(Intent.ACTION_MAIN); i.setClassName(activityInfo.applicationInfo.packageName, activityInfo.name); startActivity(i); } });;",
-    "لینک": "https://as7.cdn.asset.aparat.com/aparat-video/ead3b99167a7da3874c581c941c4c9e133493664-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE3ZWE2NGRiZjM1ZGMxOGIyM2M5MWU4YmRiN2FkZmU2IiwiZXhwIjoxNjI0Mjc2ODgxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.QYvdtZVEn66uY1KCSaZLMzJUILhoDNJNC7lidx2a4ng"
+    "لینک": "https://as7.cdn.asset.aparat.com/aparat-video/ead3b99167a7da3874c581c941c4c9e133493664-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE3ZWE2NGRiZjM1ZGMxOGIyM2M5MWU4YmRiN2FkZmU2IiwiZXhwIjoxNjI0Mjc2ODgxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.QYvdtZVEn66uY1KCSaZLMzJUILhoDNJNC7lidx2a4ng",
+    "عنوان": "نمایش برنامه های گوشی ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۹۵۵۹۴۸_tgkb.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/vMOTL/vt/frame?isamp",
     "کد": "\ndv \u003d new DrawingView(this); linear1.addView(dv); mPaint \u003d new Paint(); mPaint.setAntiAlias(true); mPaint.setDither(true); mPaint.setColor(Color.BLACK); mPaint.setStyle(Paint.Style.STROKE); mPaint.setStrokeJoin(Paint.Join.ROUND); mPaint.setStrokeCap(Paint.Cap.ROUND); mPaint.setStrokeWidth(12); } DrawingView dv; private Paint mPaint; private Canvas mCanvas; public class DrawingView extends View { public int width; public int height; private Bitmap mBitmap; private Path mPath; private Paint mBitmapPaint; Context context; private Paint circlePaint; private Path circlePath; public DrawingView(Context c) { super(c); context\u003dc; mPath \u003d new Path(); mBitmapPaint \u003d new Paint(Paint.DITHER_FLAG); circlePaint \u003d new Paint(); circlePath \u003d new Path(); circlePaint.setAntiAlias(true); circlePaint.setColor(Color.BLUE); circlePaint.setStyle(Paint.Style.STROKE); circlePaint.setStrokeJoin(Paint.Join.MITER); circlePaint.setStrokeWidth(4f); } @Override protected void onSizeChanged(int w, int h, int oldw, int oldh) { super.onSizeChanged(w, h, oldw, oldh); mBitmap \u003d Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888); mCanvas \u003d new Canvas(mBitmap); } @Override protected void onDraw(Canvas canvas) { super.onDraw(canvas); canvas.drawBitmap( mBitmap, 0, 0, mBitmapPaint); canvas.drawPath( mPath, mPaint); canvas.drawPath( circlePath, circlePaint); invalidate(); } private float mX, mY; private static final float TOUCH_TOLERANCE \u003d 4; private void touch_start(float x, float y) { mPath.reset(); mPath.moveTo(x, y); mX \u003d x; mY \u003d y; } private void touch_move(float x, float y) { float dx \u003d Math.abs(x - mX); float dy \u003d Math.abs(y - mY); if (dx \u003e\u003d TOUCH_TOLERANCE || dy \u003e\u003d TOUCH_TOLERANCE) { mPath.quadTo(mX, mY, (x + mX)/2, (y + mY)/2); mX \u003d x; mY \u003d y; circlePath.reset(); circlePath.addCircle(mX, mY, 30, Path.Direction.CW); } } private void touch_up() { mPath.lineTo(mX, mY); circlePath.reset(); mCanvas.drawPath(mPath, mPaint); mPath.reset(); } @Override public boolean onTouchEvent(MotionEvent event) { float x \u003d event.getX(); float y \u003d event.getY(); switch (event.getAction()) { case MotionEvent.ACTION_DOWN: touch_start(x, y); invalidate(); break; case MotionEvent.ACTION_MOVE: touch_move(x, y); invalidate(); break; case MotionEvent.ACTION_UP: touch_up(); invalidate(); break; } return true; } //To share add this code above code } private void storeImage(Bitmap image) { java.io.File pictureFile \u003d new java.io.File(getExternalCacheDir() + \"/image.jpg\"); if (pictureFile \u003d\u003d null) { Log.d(\"MainActivity\", \"Error creating media file, check storage permissions: \"); return; } try { java.io.FileOutputStream fos \u003d new java.io.FileOutputStream(pictureFile); image.compress(Bitmap.CompressFormat.PNG, 90, fos); fos.close(); } catch (java.io.FileNotFoundException e) { Log.d(\"MainActivity\", \"File not found: \" + e.getMessage()); } catch (java.io.IOException e) { Log.d(\"MainActivity\", \"Error accessing file: \" + e.getMessage()); } Intent iten \u003d new Intent(android.content.Intent.ACTION_SEND); iten.setType(\"*/*\"); iten.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(new java.io.File(getExternalCacheDir() + \"/image.jpg\"))); startActivity(Intent.createChooser(iten, \"Send image\")); } private Bitmap getBitmapFromView(View view) { Bitmap returnedBitmap \u003d Bitmap.createBitmap(view.getWidth(), view.getHeight(),Bitmap.Config.ARGB_8888); Canvas canvas \u003d new Canvas(returnedBitmap); android.graphics.drawable.Drawable bgDrawable \u003dview.getBackground(); if (bgDrawable!\u003dnull) { bgDrawable.draw(canvas); } else{ canvas.drawColor(Color.WHITE); } view.draw(canvas); return returnedBitmap; //on the button storeImage(getBitmapFromView(linear1)); //To Clear mCanvas.drawColor(Color.TRANSPARENT, PorterDuff.Mode.CLEAR);‌\n",
-    "لینک": "https://hw18.cdn.asset.aparat.com/aparat-video/1a84fc8b0331c989cd6d8cef9a9b235733493736-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM5NDEzMjJlZTA3ZmE2YmM4NWJkMTc4ZjZiZDU2ZWNjIiwiZXhwIjoxNjI0Mjc2OTYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.mVPcR2ahxqzg8X9_Rzl7_FBY2GyQ7QdnmNDdp8uEGjs"
+    "لینک": "https://hw18.cdn.asset.aparat.com/aparat-video/1a84fc8b0331c989cd6d8cef9a9b235733493736-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM5NDEzMjJlZTA3ZmE2YmM4NWJkMTc4ZjZiZDU2ZWNjIiwiZXhwIjoxNjI0Mjc2OTYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.mVPcR2ahxqzg8X9_Rzl7_FBY2GyQ7QdnmNDdp8uEGjs",
+    "عنوان": "ساخت برنامه نقاشی ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۱۱۶۶۹۶_13a8.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/v4Q9J/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://as6.cdn.asset.aparat.com/aparat-video/e62a9afc227ef8d927e02ea5992ec83933493823-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJkZTQ1N2FkNzg2YzFlZWEzYTliNDA3N2M4NzE3ODQ5IiwiZXhwIjoxNjI0Mjc2OTk3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YjCqOxKGyvc8DYFIJGcBBxMGgajpWgn1_lEybv_zXYQ"
+    "لینک": "https://as6.cdn.asset.aparat.com/aparat-video/e62a9afc227ef8d927e02ea5992ec83933493823-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJkZTQ1N2FkNzg2YzFlZWEzYTliNDA3N2M4NzE3ODQ5IiwiZXhwIjoxNjI0Mjc2OTk3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YjCqOxKGyvc8DYFIJGcBBxMGgajpWgn1_lEybv_zXYQ",
+    "عنوان": "برسی روت بودن گوشی ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۱۴۰۴۱۱_an3.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/63nFQ/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hw4.cdn.asset.aparat.com/aparat-video/0b9ea33b96e81a0fde581973acf22ad133493897-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY2NzMxYTkzZTNmNGEzMDQ4YTczZDQwZWJlYzgzZTQ3IiwiZXhwIjoxNjI0Mjc3MDMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.r6OTMQambnJdOx-WQLprYbm2sgvrFapxXWQMZDRtvvs"
+    "لینک": "https://hw4.cdn.asset.aparat.com/aparat-video/0b9ea33b96e81a0fde581973acf22ad133493897-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY2NzMxYTkzZTNmNGEzMDQ4YTczZDQwZWJlYzgzZTQ3IiwiZXhwIjoxNjI0Mjc3MDMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.r6OTMQambnJdOx-WQLprYbm2sgvrFapxXWQMZDRtvvs",
+    "عنوان": "آموزش ساخت تم شب ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۲۱۴۰۷۱_tp77.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/sBLPG/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://as6.cdn.asset.aparat.com/aparat-video/d8976f394b4464412a1e24c87da4026733493981-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjkyMGEzOGU3N2Y3NTJkZTBhYjY1NWRkYWJkZDQ0ZWJjIiwiZXhwIjoxNjI0Mjc3MDY3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Si4x-Kgj3j3RrnQOAyV8UzoSBexwS9cTK1lnKlh8-ng"
+    "لینک": "https://as6.cdn.asset.aparat.com/aparat-video/d8976f394b4464412a1e24c87da4026733493981-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjkyMGEzOGU3N2Y3NTJkZTBhYjY1NWRkYWJkZDQ0ZWJjIiwiZXhwIjoxNjI0Mjc3MDY3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Si4x-Kgj3j3RrnQOAyV8UzoSBexwS9cTK1lnKlh8-ng",
+    "عنوان": "چرخش دکمه های برنامه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۲۵۲۵۴۴_hl13.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/4T31V/vt/frame?isamp",
     "کد": "Intent i \u003d new Intent(android.content.Intent.ACTION_SEND);\ni.setType(\"text/plain\"); i.putExtra(android.content.Intent.EXTRA_SUBJECT, \"Sketchware_Plus \"); i.putExtra(android.content.Intent.EXTRA_TEXT, \" اسکچور پلاس \"); startActivity(Intent.createChooser(i,\"Share Code\"));",
-    "لینک": "https://as5.cdn.asset.aparat.com/aparat-video/b29bb1a777969f3f32d3b33dbd4f62f033494039-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY5MmZkNjVjNzAzNjg0Y2I4N2NkMjIyZGU4MGZmM2RlIiwiZXhwIjoxNjI0Mjc3MTQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.nlWlPEh8CLnxD9_8PwELzAhl49PybujUWPjtq7ttPYY"
+    "لینک": "https://as5.cdn.asset.aparat.com/aparat-video/b29bb1a777969f3f32d3b33dbd4f62f033494039-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY5MmZkNjVjNzAzNjg0Y2I4N2NkMjIyZGU4MGZmM2RlIiwiZXhwIjoxNjI0Mjc3MTQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.nlWlPEh8CLnxD9_8PwELzAhl49PybujUWPjtq7ttPYY",
+    "عنوان": "اشتراک گذاری متن",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۳۳۷۵۱۷_ntr7.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/6MJvj/vt/frame?isamp",
     "کد": "//by ezzex (check author)\n//works on API 1 or high\nIntent open_settings \u003d new Intent(android.provider.Settings.ACTION_SETTINGS);\nstartActivity(open_settings);",
-    "لینک": "https://hw16.cdn.asset.aparat.com/aparat-video/5aef3344b985f8722a7f5080b2b495ab33494098-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIxNmNjZmVkMTYwZDIxMWQ2NjkxNWI1MzFmMTNlNmU4IiwiZXhwIjoxNjI0Mjc3MjMwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lAmAL4a4ggeIHES76z1s38yqQFNeBl5KOwSrQX2aR7I"
+    "لینک": "https://hw16.cdn.asset.aparat.com/aparat-video/5aef3344b985f8722a7f5080b2b495ab33494098-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIxNmNjZmVkMTYwZDIxMWQ2NjkxNWI1MzFmMTNlNmU4IiwiZXhwIjoxNjI0Mjc3MjMwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lAmAL4a4ggeIHES76z1s38yqQFNeBl5KOwSrQX2aR7I",
+    "عنوان": "باز کردن تنظیمات گوشی ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۳۱۰۰۸۹_ncv4.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/fvinC/vt/frame?isamp",
     "کد": "getWindow().getDecorView()\n.setSystemUiVisibility(\nView.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY\n);\n\n//mode by Sketchware plus\n",
-    "لینک": "https://aspb30.cdn.asset.aparat.com/aparat-video/d0074923a847d77d950cf6a68a7d573634093752-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImZjNmNiM2MyMGU5YTkwMzhiNzM0NjMwZmQ2ZGQ5NmNiIiwiZXhwIjoxNjI0Mjc3MjcwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HGm7cmZ831bGl_D6WbidLLvghejF-hbg8p13r1ak1Wg"
+    "لینک": "https://aspb30.cdn.asset.aparat.com/aparat-video/d0074923a847d77d950cf6a68a7d573634093752-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImZjNmNiM2MyMGU5YTkwMzhiNzM0NjMwZmQ2ZGQ5NmNiIiwiZXhwIjoxNjI0Mjc3MjcwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HGm7cmZ831bGl_D6WbidLLvghejF-hbg8p13r1ak1Wg",
+    "عنوان": "مخفی کردن دکمه های گوشی ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۴۲۹۴۶۱_cq2.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/V1gb2/vt/frame?isamp",
     "کد": "\"file:///android_asset/نام گیف\"",
-    "لینک": "https://aspb35.cdn.asset.aparat.com/aparat-video/79814d7acfedf2a792545e402525c63534101987-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImMwN2VlNjU4YWRlYjI5NWFiMDY4ZmRlMDcyODA0YTUwIiwiZXhwIjoxNjI0Mjc3MzMyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.vDvIsUXI7Ak-QZx61l2MTBD6RjtFL40sjsADLEfjAVA"
+    "لینک": "https://aspb35.cdn.asset.aparat.com/aparat-video/79814d7acfedf2a792545e402525c63534101987-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImMwN2VlNjU4YWRlYjI5NWFiMDY4ZmRlMDcyODA0YTUwIiwiZXhwIjoxNjI0Mjc3MzMyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.vDvIsUXI7Ak-QZx61l2MTBD6RjtFL40sjsADLEfjAVA",
+    "عنوان": "گذاشتن گیف در برنامه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۵۱۹۷۵۳_kvb1.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/52XWQ/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb36.cdn.asset.aparat.com/aparat-video/2c3789dec9769ed912204b93b8c4dc8634102000-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA0YTBmNGFiYWZlOGNjMDM5YTcyMDllNmFjOTQ4NTIzIiwiZXhwIjoxNjI0Mjc3NDIyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Jat1X7D52pIaw-0n9oSav8AErmVjOv8JpnXErMnhzkA"
+    "لینک": "https://aspb36.cdn.asset.aparat.com/aparat-video/2c3789dec9769ed912204b93b8c4dc8634102000-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA0YTBmNGFiYWZlOGNjMDM5YTcyMDllNmFjOTQ4NTIzIiwiZXhwIjoxNjI0Mjc3NDIyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Jat1X7D52pIaw-0n9oSav8AErmVjOv8JpnXErMnhzkA",
+    "عنوان": "آموزش ساخت منو چپ ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۷۲۱۸۹۶_k978.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/KV2q1/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb34.cdn.asset.aparat.com/aparat-video/fa2fb0581c3b15c7fe4c2c2308ae783e34102005-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZjMzNhN2ViYWM4MTg5YmQyZDBiNmM1OTAyMzU4OTE3IiwiZXhwIjoxNjI0Mjc3NDY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.WCgmskWPICyJpZvcI1s1yTHbaqdTzOp8PZTvbkYfyCs"
+    "لینک": "https://aspb34.cdn.asset.aparat.com/aparat-video/fa2fb0581c3b15c7fe4c2c2308ae783e34102005-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZjMzNhN2ViYWM4MTg5YmQyZDBiNmM1OTAyMzU4OTE3IiwiZXhwIjoxNjI0Mjc3NDY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.WCgmskWPICyJpZvcI1s1yTHbaqdTzOp8PZTvbkYfyCs",
+    "عنوان": "آموزش ساخت صلوات شمار ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۶۱۱۸۸۶_5dzm.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/EQ40A/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://aspb29.cdn.asset.aparat.com/aparat-video/6778ed97547dc3a52bbfe840be0c359534102026-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU0NmY0Yzc5MTEyMTRjMzg5OTg2NDU4ZjdlYmMwYTJiIiwiZXhwIjoxNjI0Mjc3NTAxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.XhJgz0SpGYbS6YbX9Ub6dE8xlnx66m7SYXWFEiaAZ5U"
+    "لینک": "https://aspb29.cdn.asset.aparat.com/aparat-video/6778ed97547dc3a52bbfe840be0c359534102026-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU0NmY0Yzc5MTEyMTRjMzg5OTg2NDU4ZjdlYmMwYTJiIiwiZXhwIjoxNjI0Mjc3NTAxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.XhJgz0SpGYbS6YbX9Ub6dE8xlnx66m7SYXWFEiaAZ5U",
+    "عنوان": "گذاشتن فیلم آنلاین در برنامه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۷_۲۱۲۰۱۵۱۴۷_xkc.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/NrR6P/vt/frame?isamp",
     "کد": "\n_fab.setBackgroundTintList(android.content.res.ColorStateList.valueOf(Color.parseColor(\"0xFFE91900\".replace(\"0xFF\" , \"#\"))));",
-    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/f5f9404c43330762959e0b747346408734191519-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNhYzEyYzljMWFiYWY4ZGY0NTE2YmU1NTIyMjE5Y2Q3IiwiZXhwIjoxNjI0Mjc3NTI4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VBseQJResiSHPiwP9kRfHAqiE3PwGjGYt7z7Z5CNJxQ"
+    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/f5f9404c43330762959e0b747346408734191519-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNhYzEyYzljMWFiYWY4ZGY0NTE2YmU1NTIyMjE5Y2Q3IiwiZXhwIjoxNjI0Mjc3NTI4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VBseQJResiSHPiwP9kRfHAqiE3PwGjGYt7z7Z5CNJxQ",
+    "عنوان": "آموزش تغییر رنگ فب ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۹_۱۷۳۶۵۲۳۲۰_9aqg.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/woiN1/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/d67994344bd7b120b48e71da4d876c3d34257300-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE2OTFhMzM1NWE0ODViYjJjNmI5M2MwYzIzMmM1MDNkIiwiZXhwIjoxNjI0Mjc3NTY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VuAZoPVncIVbzyrduoBPbDNj4EZ_uKR5kP7qXUGMfEM"
+    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/d67994344bd7b120b48e71da4d876c3d34257300-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE2OTFhMzM1NWE0ODViYjJjNmI5M2MwYzIzMmM1MDNkIiwiZXhwIjoxNjI0Mjc3NTY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VuAZoPVncIVbzyrduoBPbDNj4EZ_uKR5kP7qXUGMfEM",
+    "عنوان": "آموزش ساخت دکمه خروج ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۹_۱۷۳۸۰۶۸۸۹_m364.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/mBaN1/vt/frame?isamp",
     "کد": "Animation anim \u003dnew AlphaAnimation(0.0f,1.0f); \nanim.setDuration(50);\nanim.setStartOffset(20);\nanim.setRepeatMode(Animation.REVERSE);\nanim.setRepeatCount(Animation.INFINITE);\ntextview1.startAnimation(anim);\n\n//mode by sketchware plus",
-    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/5c15d2f34280b321ec9a466d72b7147534257375-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNhOTRhZjFkZmM5NGViN2FmMjVmZWFhN2E4NzYwMTc3IiwiZXhwIjoxNjI0Mjc3NjQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jP-zYlTjSPwkFgKK3TEaxMYCBLedVkf7EHn2hn3ZzT8"
+    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/5c15d2f34280b321ec9a466d72b7147534257375-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNhOTRhZjFkZmM5NGViN2FmMjVmZWFhN2E4NzYwMTc3IiwiZXhwIjoxNjI0Mjc3NjQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jP-zYlTjSPwkFgKK3TEaxMYCBLedVkf7EHn2hn3ZzT8",
+    "عنوان": "آموزش ساخت متن چشمک زن ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۱۴_۱۳۵۳۱۱۰۰۰_z2y.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/SarOI/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/93fc38f58b318330d51a48c732aaed2134257437-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZlMGQxOWI0NzAxNzE4NjlmMjcwYjFjOWNlNjkxOGRiIiwiZXhwIjoxNjI0Mjc3NjgxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jpmfdwxtrIn0S78XmBMcUPAa6MnklkDhOk5bkbwYbps"
+    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/93fc38f58b318330d51a48c732aaed2134257437-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZlMGQxOWI0NzAxNzE4NjlmMjcwYjFjOWNlNjkxOGRiIiwiZXhwIjoxNjI0Mjc3NjgxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jpmfdwxtrIn0S78XmBMcUPAa6MnklkDhOk5bkbwYbps",
+    "عنوان": "آموزش عمومی کردن صفحه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۱۴_۱۳۵۳۴۸۷۳۳_1ikg.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/xRdUM/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/5b6b135b4bf97742e5423e329acb899334257518-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ0ZmViNDU5MGNlYTI3NTQwYzJhZmVlMjQ0NmNhZjgyIiwiZXhwIjoxNjI0Mjc3NzEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HoaQHNfbJrJT_aVtlqv-y2eHUvhyUTfgySWetZbuUb8"
+    "لینک": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/5b6b135b4bf97742e5423e329acb899334257518-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ0ZmViNDU5MGNlYTI3NTQwYzJhZmVlMjQ0NmNhZjgyIiwiZXhwIjoxNjI0Mjc3NzEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HoaQHNfbJrJT_aVtlqv-y2eHUvhyUTfgySWetZbuUb8",
+    "عنوان": "تغییر اندازه متن با سیک بار",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۱۴_۱۳۵۴۱۶۶۸۱_tc32.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/lPHnY/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/ea9b8281abdf57534f0df88539bba6a634257592-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU1NjE4MmNjNzI0Y2MyNzkxOTEwOTAzOGVlODBmOGFjIiwiZXhwIjoxNjI0Mjc3NzQ1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FBONnsE1FZwPauT_iT5DsXvtLBb4smRItCJ4STSmPkk"
+    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/ea9b8281abdf57534f0df88539bba6a634257592-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU1NjE4MmNjNzI0Y2MyNzkxOTEwOTAzOGVlODBmOGFjIiwiZXhwIjoxNjI0Mjc3NzQ1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FBONnsE1FZwPauT_iT5DsXvtLBb4smRItCJ4STSmPkk",
+    "عنوان": "آموزش ساخت صفحه دیباگ ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۱۴_۱۳۵۴۲۸۱۵۵_rfmd.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/nZTW5/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/5e5161b03fe40f37ae3047e65814a7b734257676-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlmMGY1OTgyMDI0MjY0YTRhNWYwN2MzOGYwMDgyYTI4IiwiZXhwIjoxNjI0Mjc3Nzc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.8iCENRlM8qhp3C8U5VNxR7luVLc7_7NvFLbh0iJ-i2o"
+    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/5e5161b03fe40f37ae3047e65814a7b734257676-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlmMGY1OTgyMDI0MjY0YTRhNWYwN2MzOGYwMDgyYTI4IiwiZXhwIjoxNjI0Mjc3Nzc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.8iCENRlM8qhp3C8U5VNxR7luVLc7_7NvFLbh0iJ-i2o",
+    "عنوان": "آموزش ساخت منو پیشرفته ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۴_۱۱۴۶۵۵۹۲۳_c7z1.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/GEKuO/vt/frame?isamp",
     "کد": "https://google.com",
-    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/9db5e987ca84aa36031bc0e93626d92734753522-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY0MzJhNDk4NThhNDQwYTdjZGIyMjY5MmIwYjg3OTZhIiwiZXhwIjoxNjI0NTM2NzkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2Xp2ots7q4XvxvL6gXdXj9kFY_jU5sonl4X0jnVPrvI"
+    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/9db5e987ca84aa36031bc0e93626d92734753522-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY0MzJhNDk4NThhNDQwYTdjZGIyMjY5MmIwYjg3OTZhIiwiZXhwIjoxNjI0NTM2NzkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2Xp2ots7q4XvxvL6gXdXj9kFY_jU5sonl4X0jnVPrvI",
+    "عنوان": "برسی اتصال به اینترنت ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۴_۱۲۰۲۰۸۷۰۸_6h58.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/G7Axa/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/8fdb6ae8e56fa5c92e7e2e1d20d7ae2434753487-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjhjZGJkMWE5ZTc3MDlmMjE0MGY2NTAxYTgzZmFmYTJlIiwiZXhwIjoxNjI0NTM4MjAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zsvLqNyUWx-gYtDrRSmhSg89-E6Ft_m96cniKWDuNiI"
+    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/8fdb6ae8e56fa5c92e7e2e1d20d7ae2434753487-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjhjZGJkMWE5ZTc3MDlmMjE0MGY2NTAxYTgzZmFmYTJlIiwiZXhwIjoxNjI0NTM4MjAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zsvLqNyUWx-gYtDrRSmhSg89-E6Ft_m96cniKWDuNiI",
+    "عنوان": "آموزش تغییر فونت برنامه ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۷_۲۱۲۳۲۱۰۱۵_7ll8.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/Abl7y/vt/frame?isamp\n",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/3131fb8862ec5724238f8f60f992410634868966-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjI3MDU1NzNkOTgwNTRmODEyMGY1Y2FhMTNmY2MyMjYxIiwiZXhwIjoxNjI0ODMwMzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.J_bXkGal3FThm4Ohb0iG1D7tmOVjShjTWccRPwHfRW8"
+    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/3131fb8862ec5724238f8f60f992410634868966-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjI3MDU1NzNkOTgwNTRmODEyMGY1Y2FhMTNmY2MyMjYxIiwiZXhwIjoxNjI0ODMwMzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.J_bXkGal3FThm4Ohb0iG1D7tmOVjShjTWccRPwHfRW8",
+    "عنوان": "آموزش انتقال متن بین دو صفحه ",
+    "مدرس": "مدرس: محمد حسین آهومنش"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۸_۰۹۱۹۳۴۸۰۱_sptc.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/eEiuh/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/b76a10ea833d9b2aa5a9d049b456537834878530-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZlNGQ3NTM4ODI1MThmZDk3YzJiMGNiNTIxMGRjZjk1IiwiZXhwIjoxNjI0ODczNDQxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.xqEpl9v3sNlFURqrzBoOq0wBUVqkV4cEUatJ8zg4NhQ"
+    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/b76a10ea833d9b2aa5a9d049b456537834878530-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZlNGQ3NTM4ODI1MThmZDk3YzJiMGNiNTIxMGRjZjk1IiwiZXhwIjoxNjI0ODczNDQxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.xqEpl9v3sNlFURqrzBoOq0wBUVqkV4cEUatJ8zg4NhQ",
+    "عنوان": "ساخت برنامه random imageview ",
+    "مدرس": "مدرس: محمد حسین آهومنش"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۸_۰۹۲۵۴۸۸۰۴_i8da.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/bAlrx/vt/frame?isamp",
     "کد": "http://api.whatsapp.com/send?phone\u003d+989382660986",
-    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/6af9f6758b7e1d997d1022934c18bf8c34878577-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjBhNTZjNTY2NjNlYWY0MzIyYjE2MmZhMjZkM2JjNGQ0IiwiZXhwIjoxNjI0ODc0MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.mnUzxcEeGAyZ0f_Az5zvnZbUW-xpGVq1G1UlH3sqiOI"
+    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/6af9f6758b7e1d997d1022934c18bf8c34878577-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjBhNTZjNTY2NjNlYWY0MzIyYjE2MmZhMjZkM2JjNGQ0IiwiZXhwIjoxNjI0ODc0MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.mnUzxcEeGAyZ0f_Az5zvnZbUW-xpGVq1G1UlH3sqiOI",
+    "عنوان": "رفتن به واتساپ ",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۸_۰۹۳۲۱۶۲۵۶_ve4v.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/EvnBA/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/1924905b38f34b46bf43c318da5cb7ec34878679-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFhMTU2MGFiNGQ4NmE1MjVjMjhiYmI5YmFiYTI4OGMyIiwiZXhwIjoxNjI0ODc0NDA3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.OdRTJygm8WZR1oj2A7QPS1QRApEdUXb2MSSGjFpMb60"
+    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/1924905b38f34b46bf43c318da5cb7ec34878679-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFhMTU2MGFiNGQ4NmE1MjVjMjhiYmI5YmFiYTI4OGMyIiwiZXhwIjoxNjI0ODc0NDA3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.OdRTJygm8WZR1oj2A7QPS1QRApEdUXb2MSSGjFpMb60",
+    "عنوان": "معکوس کننده متن",
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۲۸_۲۱۵۱۱۵۷۴۶_0wgd.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/ki6r3/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/049cfbd18a879c195cfdeb786bd7a0ee34910302-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVjYTVkYTJmMTZkNzczODNhZmE1ODhjMWE4NzllMGUyIiwiZXhwIjoxNjI0OTUzODQ1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1Qta-ItUIh4uRSkDqkmKAjsAozuCwBkNWbTSWWdHwWQ"
+    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/049cfbd18a879c195cfdeb786bd7a0ee34910302-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVjYTVkYTJmMTZkNzczODNhZmE1ODhjMWE4NzllMGUyIiwiZXhwIjoxNjI0OTUzODQ1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1Qta-ItUIh4uRSkDqkmKAjsAozuCwBkNWbTSWWdHwWQ",
+    "عنوان": "آموزش ساخت مرورگر ",
+    "مدرس": "مدرس: شهریار زارعی  "
   }
 ]
