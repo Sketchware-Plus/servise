@@ -32,7 +32,7 @@
     "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));",
     "لینک": "https://aspb19.cdn.asset.aparat.com/aparat-video/e645a348b5c3ed913f390a0db4cec40b32219310-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU4YWIwZjI3YjFlMmNkMTY5NTNmOGZiNmM0MDI4ZDQ1IiwiZXhwIjoxNjI0Mjc1NzkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9H2gxiOF1Y7HbqH_Y4dm0z5mXlbQIyFPCYBVODA5NhU",
     "عنوان": "نمایش درصد شارژ باتری",
-    "مدرس": "مدرس: علیرضا دهکار "
+    "مدرس": "مدرس: علی اصغر سالاری"
   },
   {
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/FTEnj/vt/frame?isamp",
