@@ -32,7 +32,7 @@
     "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));",
     "لینک": "https://aspb19.cdn.asset.aparat.com/aparat-video/e645a348b5c3ed913f390a0db4cec40b32219310-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU4YWIwZjI3YjFlMmNkMTY5NTNmOGZiNmM0MDI4ZDQ1IiwiZXhwIjoxNjI0Mjc1NzkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9H2gxiOF1Y7HbqH_Y4dm0z5mXlbQIyFPCYBVODA5NhU",
     "عنوان": "نمایش درصد شارژ باتری",
-    "مدرس": "مدرس: علی اصغر سالاری"
+    "مدرس": "مدرس: علیرضا دهکار "
   },
   {
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/FTEnj/vt/frame?isamp",
@@ -322,10 +322,31 @@
     "مدرس": "مدرس: علیرضا دهکار "
   },
   {
-    "فیلم": "https://www.aparat.com/video/video/embed/videohash/ki6r3/vt/frame?isamp",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/f1JGv/vt/frame?isamp",
     "کد": "کدی وجود ندارد.",
-    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/049cfbd18a879c195cfdeb786bd7a0ee34910302-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVjYTVkYTJmMTZkNzczODNhZmE1ODhjMWE4NzllMGUyIiwiZXhwIjoxNjI0OTUzODQ1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1Qta-ItUIh4uRSkDqkmKAjsAozuCwBkNWbTSWWdHwWQ",
+    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/fb91cdcea6e0ec986aa1e147e81e98b135056379-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjkwZmRjMmRlNzNmYTY5YTQ1MWQyZGY2OGRhNTgxOTk0IiwiZXhwIjoxNjI1MzUxNTc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LWmamwFOACBLAMNL8WGZKgW8O8YOASF-G2Fr9OlRHiY",
     "عنوان": "آموزش ساخت مرورگر ",
     "مدرس": "مدرس: شهریار زارعی "
+  },
+  {
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/u60i5/vt/frame?isamp",
+    "کد": "",
+    "لینک": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/6877a57428ace1f662a69e8557d6f39735056413-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ1ZWZmNDFkYjYwM2ViN2IzNmNjZGNjNzg5OGM4MWNlIiwiZXhwIjoxNjI1MzUxODA2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.JCgOucI017dXM6nRsSw7p5Iu2G38kWvlPwGhqzbs3jc",
+    "عنوان": "آموزش ساخت تلفن ",
+    "مدرس": "مدرس: شهریار زارعی "
+  },
+  {
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/S6LDV/vt/frame?isamp",
+    "کد": "android.content.pm.ShortcutManager shortcutManager \u003d null;\nif (Build.VERSION.SDK_INT \u003e\u003d Build.VERSION_CODES.N_MR1) {\n shortcutManager \u003d getSystemService(android.content.pm.ShortcutManager.class);\n}\nif (shortcutManager !\u003d null) {\n android.content.pm.ShortcutInfo shortcut_1 \u003d new android.content.pm.ShortcutInfo.Builder(MainActivity.this, \"Activity1\")\n .setShortLabel(\"Activity1\")\n .setLongLabel(\"Activity1\")\n .setRank(0)\n .setIntent(new android.content.Intent(android.content.Intent.ACTION_VIEW, null, MainActivity.this, Ac1Activity.class))\n .setIcon(android.graphics.drawable.Icon.createWithResource(MainActivity.this, R.drawable.img))\n .build();\n android.content.pm.ShortcutInfo shortcut_2 \u003d new android.content.pm.ShortcutInfo.Builder(MainActivity.this, \"Activity2\")\n .setShortLabel(\"Browser\")\n .setLongLabel(\"Open Browser\")\n .setRank(1)\n .setIntent(new android.content.Intent(android.content.Intent.ACTION_VIEW, Uri.parse(\"https://google.com\")))\n .setIcon(android.graphics.drawable.Icon.createWithResource(MainActivity.this, R.drawable.img))\n .build();\n android.content.pm.ShortcutInfo shortcut_3 \u003d new android.content.pm.ShortcutInfo.Builder(MainActivity.this, \"Activity3\")\n .setShortLabel(\"Activity2\")\n .setLongLabel(\"Activity2\")\n .setRank(2)\n .setIntent(new android.content.Intent(android.content.Intent.ACTION_VIEW, null, MainActivity.this, Ac2Activity.class))\n .setIcon(android.graphics.drawable.Icon.createWithResource(MainActivity.this, R.drawable.img))\n .build();\n shortcutManager.setDynamicShortcuts(java.util.Arrays.asList(shortcut_1, shortcut_2, shortcut_3));\n}",
+    "لینک": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/66044489ac63c9cb64eaca46353dc4c435056569-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFkM2FmM2ViNDc4ZmFlOGY0NDY4NzJhNWRlYjlhNTE4IiwiZXhwIjoxNjI1MzUxOTEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Fr5M3PdD6VU8X-lZmWLHfJ9I9X2mK3qv20IDI9GJJnc",
+    "عنوان": "آموزش میانبر(shortcut)",
+    "مدرس": "محمد حسین آهومنش "
+  },
+  {
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/kBorN/vt/frame?isamp",
+    "کد": "",
+    "لینک": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/16a0ba53a9fd49edfe2b4d704593d7c135056675-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijk2MTFmYTQ1YTUwOTk2M2NmYzdhNjYwZTlmZTk3M2YwIiwiZXhwIjoxNjI1MzUyMDA4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Wjmj8DO4fIsatduICjAzK264k8zwQ44l1EmHcYww5cA",
+    "عنوان": "آموزش ساخت کد ویو",
+    "مدرس": "مدرس: محمد حسین آهومنش "
   }
 ]
