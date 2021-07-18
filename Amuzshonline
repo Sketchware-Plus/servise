@@ -369,5 +369,12 @@
     "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/08857edd24a481835427953fff3620c335187253-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3YjQ4YmFhZmQ0YTI3YzUxY2U4NmE0ZTkwNmIxZGQ4IiwiZXhwIjoxNjI1Njk3NjI5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VEERK_bcl0LslIwlGnvbw6jyNTQlPvL7zKfF-94N8Qw",
     "عنوان": "آموزش چک کردن آپدیت برنامه",
     "مدرس": "مدرس: محمد حسین آهومنش "
+  },
+  {
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/wEhsi/vt/frame?isamp",
+    "کد": "if (Build.VERSION.SDK_INT \u003e Build.VERSION_CODES.KITKAT) {\nWindow w \u003dthis.getWindow();\nw.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);\nw.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS); w.setNavigationBarColor(Color.parseColor(\"#ff00ff\".replace(\"0xFF\" , \"#\")));\n}",
+    "لینک": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/32dfa93f81c079a6cd9084f9fa0bc15335525869-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIyY2NiZGU5MGY1MjZhMmRjMDQ1ZjE3ODQ1MWRkOTM2IiwiZXhwIjoxNjI2NjAxMDc4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Mr08jPe5P9pSgBMG0X0nM_yE51rf6OaLtnisCOKA8UQ",
+    "عنوان": "آموزش تغییر رنگ نوار پایین",
+    "مدرس": "مدرس: علیرضا دهکار "
   }
 ]
