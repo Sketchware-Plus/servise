@@ -1,5 +1,6 @@
 {
-  "لینک": "https://myket.ir/app/com.sheereenfoontcandy",
-  "عنوان": "اسمتو زیبا بنویس",
-  "تصویر": "https://s4.uupload.ir/files/img-20210720-wa0002_xzir.jpg"
+  "تبلیغ": "فعال",
+  "عکس": "https://s4.uupload.ir/files/cc_۲۰۲۱۰۶۱۳_۱۰۲۲۵۸_1l8y.png",
+  "لینک": "https://hndigram.ir",
+  "متن": "اسکچور پلاس "
 }
