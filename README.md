@@ -1,1 +1,1 @@
-samsung/SM-A107F/armeabi-v7a
+samsung/SM-A015F/armeabi-v7a
