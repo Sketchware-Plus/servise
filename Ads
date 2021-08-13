@@ -1,5 +1,5 @@
 {
-  "تبلیغ": "فعال",
+  "تبلیغ": "غیرفعال",
   "عکس": "https://s4.uupload.ir/files/img-20210812-wa0030_foxs.jpg",
   "لینک": "https://myket.ir/app/com.Musicplayer",
   "متن": "پخش کننده آهنگ ــ راحت آهنگ گوش کن"
