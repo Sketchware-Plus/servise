@@ -1,6 +1,6 @@
 {
-  "تبلیغ": "غیرفعال",
-  "عکس": "https://s4.uupload.ir/files/img-20210812-wa0030_foxs.jpg",
-  "لینک": "https://myket.ir/app/com.Musicplayer",
-  "متن": "پخش کننده آهنگ ــ راحت آهنگ گوش کن"
+  "تبلیغ": "فعال",
+  "عکس": "https://s4.uupload.ir/files/negar_۲۰۲۱۰۸۱۵_۲۰۰۱۲۲_02p.png",
+  "لینک": "https://myket.ir/app/Tasbih.haknam.com",
+  "متن": "با صلوات شمار tasbih بینهایت صلوات بگو!"
 }
