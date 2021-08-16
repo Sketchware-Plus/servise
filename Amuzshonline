@@ -397,5 +397,12 @@
     "لینک": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/1fb084fbc25b6230102f78802285eddb36520705-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNjZjdmZDQ1YTk3YWVkMjNhZTZhOTg2ZmIzNTllOGQ3IiwiZXhwIjoxNjI5MDQ5MzEzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.wZpvH11p_9Q6Kn-vLYBh5oqNTahVfsJlD_NOJaFmmpo",
     "عنوان": "نحوه استفاده از فونت ها",
     "مدرس": "مدرس: علیرضادهکار "
+  },
+  {
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/ArseM/vt/frame?isamp",
+    "کد": "Bitmap bm \u003d ((android.graphics.drawable.BitmapDrawable)imageview1.getDrawable()).getBitmap();\r\n\r\nimageview1.setImageBitmap(getRoundedCornerBitmap(bm, 360));\r\n\r\n// onCreate\r\n}\r\npublic static Bitmap getRoundedCornerBitmap(Bitmap bitmap, int pixels) {\r\nBitmap output \u003d Bitmap.createBitmap(bitmap.getWidth(), bitmap.getHeight(), Bitmap.Config.ARGB_8888);\r\nCanvas canvas \u003d new Canvas(output);\r\nfinal int color \u003d 0xff424242;\r\nfinal Paint paint \u003d new Paint();\r\nfinal Rect rect \u003d new Rect(0, 0, bitmap.getWidth(), bitmap.getHeight());\r\nfinal RectF rectF \u003d new RectF(rect);\r\nfinal float roundPx \u003d pixels;\r\npaint.setAntiAlias(true);\r\ncanvas.drawARGB(0, 0, 0, 0);\r\npaint.setColor(color);\r\ncanvas.drawRoundRect(rectF, roundPx, roundPx, paint); \r\npaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.SRC_IN)); \r\ncanvas.drawBitmap(bitmap, rect, rect, paint);\r\nreturn output;",
+    "لینک": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/33e3a182babf395982644a85159a953a36566465-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgxZjNlMTliOGU4YjljZGUxNWQ1YTBiMzRjOGY5MjkyIiwiZXhwIjoxNjI5MTU1OTYxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lMGKBGuj1ser60-Rptm_T6_-B3iLreW03RYshuzj-cY",
+    "عنوان": "ساخت گردونه شانس پیشرفته ",
+    "مدرس": "مدرس: علیرضا دهکار "
   }
 ]
