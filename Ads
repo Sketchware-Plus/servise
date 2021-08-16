@@ -1,5 +1,5 @@
 {
-  "تبلیغ": "فعال",
+  "تبلیغ": "غیرفعال",
   "عکس": "https://s4.uupload.ir/files/negar_۲۰۲۱۰۸۱۵_۲۰۰۱۲۲_02p.png",
   "لینک": "https://myket.ir/app/Tasbih.haknam.com",
   "متن": "با صلوات شمار tasbih بینهایت صلوات بگو!"
