@@ -1,5 +1,5 @@
 {
-  "تبلیغ": "فعال",
+  "تبلیغ": "غیرفعال",
   "عکس": "https://s4.uupload.ir/files/negar_۲۰۲۱۰۹۲۵_۱۱۴۸۲۰_kctb.png",
   "لینک": "https://www.aparat.com/Alirezadehkar0086",
   "متن": "علیرضادهکار"
