@@ -1,6 +1,6 @@
 {
   "تبلیغ": "فعال",
-  "عکس": "https://s4.uupload.ir/files/negar_۲۰۲۱۱۰۲۸_۰۷۳۹۴۷_jc7f.png",
+  "عکس": "https://s4.uupload.ir/files/negar_۲۰۲۱۱۰۲۸_۰۷۳۹۴۷_6dd8.png",
   "لینک": "https://rubika.ir/clip_Shad0",
   "متن": "کلیپ شاد و غمگین"
 }
