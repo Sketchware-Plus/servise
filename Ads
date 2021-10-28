@@ -1,6 +1,6 @@
 {
   "تبلیغ": "فعال",
-  "عکس": "https://s4.uupload.ir/files/img-20211022-wa0002_3bna.jpg",
-  "لینک": "https://myket.ir/app/com.fontsroid.com",
-  "متن": "DARK FONT"
+  "عکس": "https://s4.uupload.ir/files/negar_۲۰۲۱۱۰۲۸_۰۷۳۹۴۷_6dd8.png",
+  "لینک": "https://rubika.ir/clip_Shad0",
+  "متن": "کلیپ شاد و غمگین"
 }
