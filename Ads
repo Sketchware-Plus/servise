@@ -1,6 +1,6 @@
 {
-  "تبلیغ": "غیرفعال",
-  "عکس": "https://s4.uupload.ir/files/1635393183973_utd9.png",
-  "لینک": "https://rubika.ir/clip_Shad0",
-  "متن": "کلیپ شاد و غمگین"
+  "تبلیغ": "فعال",
+  "عکس": "https://s6.uupload.ir/files/img_20220324_115141_981_qe0k.jpg",
+  "لینک": "http://myket.ir/user/alirezadehkar",
+  "متن": "تخفیف ویژه"
 }
