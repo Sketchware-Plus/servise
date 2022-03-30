@@ -1,6 +1,6 @@
 {
   "تبلیغ": "غیرفعال",
   "عکس": "https://s6.uupload.ir/files/img_20220324_115141_981_qe0k.jpg",
-  "لینک": "http://myket.ir/user/alirezadehkar",
-  "متن": "تخفیف ویژه"
+  "لینک": "https://instagram.com/sadegh.dahkari7?utm_medium\u003dcopy_link",
+  "متن": "فروشگاه جغین اسپرت"
 }
