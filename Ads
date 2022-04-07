@@ -1,6 +1,6 @@
 {
-  "تبلیغ": "غیرفعال",
-  "عکس": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۳۳۰_۱۲۳۴۵۱_anhj.png",
-  "لینک": "https://instagram.com/sadegh.dahkari7?utm_medium\u003dcopy_link",
-  "متن": "فروشگاه جغین اسپرت"
+  "تبلیغ": "فعال",
+  "عکس": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۴۰۷_۱۳۱۶۵۵_ecbw.png",
+  "لینک": "https://instagram.com/alirezadehkar_?igshid\u003dYmMyMTA2M2Y\u003d",
+  "متن": "تخفیف ویژه!"
 }
