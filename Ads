@@ -1,5 +1,5 @@
 {
-  "تبلیغ": "فعال",
+  "تبلیغ": "غیرفعال",
   "عکس": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۷۱۹_۲۳۱۲۰۹_7qq7.png",
   "لینک": "https://myket.ir/app/ir.noha.hormozgan",
   "متن": "نوحه های هرمزگان"
